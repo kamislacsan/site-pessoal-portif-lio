@@ -3,17 +3,25 @@ body {
 }
 
 h1 {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Pacifico', sans-serif;
     color: rgb(7, 7, 99);
     font-size:xx-large;
     text-align: center;
 }
 
 h2 {
-    color: black;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(7, 7, 99);
+    font-family: 'Pacifico', sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
 }
 
-h2 {
-    font-size: medium;
-} 
+p {
+    font-family: 'fraunces', sans-serif;
+}
+
+.subtitulo {
+    font-family: 'Fraunces', sans-serif;
+    margin-left: 600px;
+    margin-top: -520px;
+}
